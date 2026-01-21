@@ -1,0 +1,26 @@
+# Source files (distribute compiled only)
+nodes/
+credentials/
+data/
+
+# Config files
+tsconfig.json
+.eslintrc.js
+.prettierrc
+gulpfile.js
+jest.config.js
+
+# Development
+test/
+coverage/
+.github/
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# Misc
+*.log
+*.tmp
